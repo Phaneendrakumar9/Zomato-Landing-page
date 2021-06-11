@@ -39,7 +39,7 @@
   }
   
   .nav__item:hover {
-    border: 2px solid blue;
+    border: 2px solid rgb(216, 85, 85);
   }
   
   @media (min-width: 768px) {
